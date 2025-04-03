@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently enrolled in Dwarkadas J. Sanghvi College of Engineering<br>🌱 I’m currently Machine Learning
+🔭 I’m currently enrolled in Dwarkadas J. Sanghvi College of Engineering<br>🌱 I’m currently pursuing Machine Learning
 
 
 ## 🌐 Socials:
